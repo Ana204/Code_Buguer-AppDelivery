@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://kotlinlang.org/docs/android-overview.html"> 📲 nlw-expert-AppDelivery 🔥 </a>  
+    <a href="https://kotlinlang.org/docs/android-overview.html"> 📲 Code Buguer-AppDelivery 🔥 </a>  
 </h1>
 
 ![Preview-Screens](https://github.com/Ana204/nlw-expert-AppDelivery/blob/main/assets/images/home.png)
