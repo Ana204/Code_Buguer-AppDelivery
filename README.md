@@ -2,8 +2,7 @@
     <a href="https://kotlinlang.org/docs/android-overview.html"> 📲 Code Buguer-AppDelivery 🔥 </a>  
 </h1>
 
-![Preview-Screens](https://github.com/Ana204/nlw-expert-AppDelivery/blob/main/assets/images/home.png)
-![Preview-Screens](https://github.com/Ana204/nlw-expert-AppDelivery/blob/main/assets/images/product.png)
+![Preview-Screens](https://github.com/Ana204/nlw-expert-AppDelivery/blob/main/assets/images/home.png https://github.com/Ana204/nlw-expert-AppDelivery/blob/main/assets/images/product.png)
 ![Preview-Screens](https://github.com/Ana204/nlw-expert-AppDelivery/blob/main/assets/images/cart.png)
 
 
